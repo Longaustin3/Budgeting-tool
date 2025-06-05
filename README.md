@@ -1,0 +1,1 @@
+Personal project to assist with budgetting and tracking transactions. Some backend coding is completed and currently creating a functional UI. Later it will be linked to a database to store information and include user authentication.
